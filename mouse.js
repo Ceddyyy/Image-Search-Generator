@@ -10,8 +10,8 @@ document.addEventListener('mousemove', (e) => {
 
     
     setTimeout(() => {
-        trail.style.transform = 'scale(0.5)'; // Shrink the trail
-        trail.style.opacity = '0'; // Fade out
+        trail.style.transform = 'scale(0.5)'; 
+        trail.style.opacity = '2'; 
     }, 0);
 
     
